@@ -17,11 +17,11 @@ The model is trained on the dataset "https://www.kaggle.com/datasets/imbikramsah
 •Resolution: 300x200
 
 ## 🧩Features:
-1. 🖼️ Image Preprocessing Pipeline<br>
- • Automatic loading of images from the dataset directories<br>
- • Resizing images to a fixed input size (e.g., 224 × 224)<br>
- • Normalization of pixel values<br>
- • Conversion of images into numerical arrays suitable for CNN input<br>
+ 1. 🖼️ Image Preprocessing Pipeline<br>
+  • Automatic loading of images from the dataset directories<br>
+  • Resizing images to a fixed input size (e.g., 224 × 224)<br>
+  • Normalization of pixel values<br>
+  • Conversion of images into numerical arrays suitable for CNN input<br>
 
 2. 🧠 Deep Feature Extraction using CNN<br>
  • Uses a pre-trained Convolutional Neural Network (CNN) named ResNet50 with ImageNet weights<br>
