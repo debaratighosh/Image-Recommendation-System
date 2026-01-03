@@ -1,0 +1,15 @@
+os
+numpy
+pandas
+matplotlib
+Pillow
+torch
+torchvision
+faiss-cpu
+scikit-learn
+ipywidgets
+random
+io
+pickle
+tqdm
+sys
