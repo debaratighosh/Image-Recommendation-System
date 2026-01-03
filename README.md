@@ -45,6 +45,7 @@ The model is trained on the dataset "https://www.kaggle.com/datasets/imbikramsah
  • Helps visually validate the recommendation results<br>
 
  ## 🌲Model Training:<br>
+ • I have used GPU(NVIDIA CUDA) for this project<br>
  • No model training is performed in this project<br>
  • A pre-trained Convolutional Neural Network (CNN) (trained on ImageNet) is used<br>
  • The CNN is used only as a feature extractor, not for classification<br>
