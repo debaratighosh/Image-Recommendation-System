@@ -12,7 +12,7 @@ The model is trained on an image dataset named 'Caltech 101' with 101 classes ha
 
 ## 📊Dataset
 The model is trained on the dataset "https://www.kaggle.com/datasets/imbikramsaha/caltech-101" with:<br>
-•Format: .jpy<br>
+•Format: .jpg<br>
 •Labels: 101 classes with number of images ranging from 40-800<br>
 •Resolution: 300x200
 
