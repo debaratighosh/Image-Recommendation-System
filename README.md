@@ -17,7 +17,7 @@ The model is trained on the dataset "https://www.kaggle.com/datasets/imbikramsah
 •Resolution: 300x200
 
 ## 🧩Features:
- 1. 🖼️ Image Preprocessing Pipeline<br>
+1. 🖼️ Image Preprocessing Pipeline<br>
   • Automatic loading of images from the dataset directories<br>
   • Resizing images to a fixed input size (e.g., 224 × 224)<br>
   • Normalization of pixel values<br>
