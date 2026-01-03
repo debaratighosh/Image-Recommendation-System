@@ -70,6 +70,9 @@ pip install -r requirements.txt<br>
 jupyter notebook Image Recommendation.ipynb<br>
 • Enter your query image and get 'k' number of recommended images<br>
 
-
+## 🚀 Sample Prediction:<br>
 
 <img width="404" height="626" alt="image" src="https://github.com/user-attachments/assets/541cf017-a612-42ff-a30a-c678d4c49f87" />
+<img width="429" height="623" alt="image" src="https://github.com/user-attachments/assets/ca084c86-eb1b-4a2c-8bab-4bbd3cdcccbb" />
+<img width="390" height="621" alt="image" src="https://github.com/user-attachments/assets/2b9bd752-25a3-4dc4-8593-161ac3527319" />
+
