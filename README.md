@@ -5,6 +5,8 @@ This project is focused on building a machine learning model that recommends vis
 
 The model is trained on an image dataset named 'Caltech 101' with 101 classes having 40-800 images approximately.Feature extraction is done at first using the pre-trained CNN model and Cosine Similarity comparision using distance metrics is used to recommend images based on the query image.
 
+Demo Recording: https://drive.google.com/file/d/1JDl11hFRj0urF6LBrBxki0lOewgzp1zw/view?usp=drive_link<br>
+
 📌Language: Python<br>
 💻Environment: Jupyter Notebook<br>
 📝Model/Algorithm Used: Pre-trained Convolutional Neural Network (CNN) using ResNet50 model,Similarity Matching using Cosine Similarity<br>
